@@ -95,7 +95,7 @@ The architecture decouples query reception from long LLM inference times. Multip
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/x-dheeraj/scalable_RAG.git
+git clone https://github.com/dheeraj-GHB/scalable_RAG.git
 cd scalable_RAG
 
 ```
